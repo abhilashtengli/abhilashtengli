@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ar1rF8Vrspv9vU7bA0pWwEcM2me6g36F/view?usp=share_link](https://drive.google.com/file/d/1Ar1rF8Vrspv9vU7bA0pWwEcM2me6g36F/view?usp=share_link)
 
-<a href=""><img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="500"></a>
+<a href=""><img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="400"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
