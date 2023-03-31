@@ -1,5 +1,5 @@
 
-<a href=""><img align="center" src="http://www.digitalprolab.in/forimg/software.gif" width="1000" height="300"></a>
+<a href=""><img align="center" src="http://www.digitalprolab.in/forimg/software.gif" width="1000" height="400"></a>
 
 <!--
 **abhilashtengli/abhilashtengli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
