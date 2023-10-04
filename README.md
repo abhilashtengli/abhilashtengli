@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **abhilasht0007.t@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ar1rF8Vrspv9vU7bA0pWwEcM2me6g36F/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LHMKT8ZOduuIB-RFdmzmE3bYPQDczr6i/view?usp=sharing)
 
 <a href=""><img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="300"></a>
 
