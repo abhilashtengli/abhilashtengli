@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey 👋, I'm Abhilash Tengli</h1>
 <h3 align="center">My passion lies in Full stack development, where I strive to create innovative and scalable software solutions</h3>
 
-- 🌱 I’m currently learning **more about Spring boot and DSA**
-
-- 👨‍💻 All of my projects are available at [https://github.com/abhilashtengli/Projects-Resume-](https://github.com/abhilashtengli/Projects-Resume-)
+- 🌱 I’m currently learning **more about JavaScript and React.js**
 
 - 📫 How to reach me **abhilasht0007.t@gmail.com**
 
