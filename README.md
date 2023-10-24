@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **more about JavaScript and React.js**
 
-- 📫 How to reach me **abhilasht0007.t@gmail.com**
+- 📫 How to reach me **tengliabhilash01@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LHMKT8ZOduuIB-RFdmzmE3bYPQDczr6i/view?usp=sharing)
 
