@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tengliabhilash01@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XZIWyv57Dj1uQ-inj66YUVcxMCVZXCzG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1O2DfCXpTh4WZtL-fkaVt4wz_avollP4B/view?usp=sharing)
 
 <a href=""><img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="300"></a>
 
