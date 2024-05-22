@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey 👋, I'm Abhilash Tengli</h1>
 <h3 align="center">My passion lies in Full stack development, where I strive to create innovative and scalable software solutions</h3>
 
-- 🌱 I’m currently learning **more about JavaScript and React.js**
+- 🌱 I’m currently learning **more about React.js & Framer Motion**
 
 - 📫 How to reach me **tengliabhilash01@gmail.com**
 
