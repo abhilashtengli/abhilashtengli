@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **more about NextJs**
 
-- 🌐 Building [aceingdev.com](https://acingdev.com) – bringing ideas to life! 
+- 🌐 Building [aceingdev.com](https://aceingdev.com) – bringing ideas to life! 
 
 - 📬 Reach me at:  **tengliabhilash01@gmail.com**
 
