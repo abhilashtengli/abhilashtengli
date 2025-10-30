@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌐 Building [aceingdev.com](https://aceingdev.com) – bringing ideas to life! 
 
-- 📬 Reach me at:  **tengliabhilash01@gmail.com**
+- 📬 Reach me at:  **abhilashtengliwork@gmail.com**
 
 
 
