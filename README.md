@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <h2 align="left">Hey 👋, I'm Abhilash Tengli</h2>
 <h3 align="left">"Work builds, and building works."</h3>
 
-- 🌱 I’m currently learning **more about n8n workflows**
-
 - 🌐 Building [aceingdev.com](https://aceingdev.com) – bringing ideas to life! 
 
 - 📬 Reach me at:  **tengliabhilash01@gmail.com**
