@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hey 👋, I'm Abhilash Tengli</h2>
-<h3 align="left">"Work builds, and building works."</h3>
+<h4 align="left">"Assault your body, mind and ego."</h4>
 
 - 🌐 Building [aceingdev.com](https://aceingdev.com) – bringing ideas to life! 
 
@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 <!-- <a href=""><img top="500" align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="300"></a> -->
 
-# 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhilashtengli&)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashtengli&include_all_commits=true&count_private=true&layout=compact)
 
