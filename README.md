@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 🌐 Building [aceingdev.com](https://aceingdev.com) – bringing ideas to life! 
 
 - 📬 Reach me at:  **abhilashtengliwork@gmail.com**
-- !(https://img.shields.io/badge/AI%20Review%20Analyzer-%F0%9F%A7%A0%20-brightgreen?style=for-the-badge) I build web and Mobile Applications
+  
+- 📱 I build Web & Mobile Applications.
 
 
 
