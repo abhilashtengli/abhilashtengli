@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hey 👋, I'm Abhilash Tengli</h2>
-<h4 align="left">"Assault your body, mind and ego."</h4>
+
+<h5 align="left">"Assault your body, mind and ego."</h5>
 
 - 🌐 Building [aceingdev.com](https://aceingdev.com) – bringing ideas to life! 
 
