@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 <h5 align="left">"Assault your body, mind and ego."</h5>
 
-- 🌐 Building [aceingdev.com](https://aceingdev.com) – bringing ideas to life! 
+- Building [aceingdev.com](https://aceingdev.com) – bringing ideas to life! 
 
-- 📬 Reach me at:  **abhilashtengliwork@gmail.com**
+- Reach me at:  **abhilashtengliwork@gmail.com**
   
-- 📱 I build Web & Mobile Applications.
+- I build Web & Mobile Applications.
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhitengli30/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhilashtengli?t=GUFDS98Nx_eK0uooq_sXjQ&s=09) 
+- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhilashtengli?t=GUFDS98Nx_eK0uooq_sXjQ&s=09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhitengli30/)
 
 
 <!--
