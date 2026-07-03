@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h5 align="left">"Assault your body, mind and ego."</h5>
 
-- Building [aceingdev.com](https://aceingdev.com) – bringing ideas to life! 
+- Engineering studio [aceingdev.com](https://aceingdev.com) – bringing ideas to life! 
 
 - Reach me at:  **abhilashtengliwork@gmail.com**
   
